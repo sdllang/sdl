@@ -31,5 +31,5 @@ and _installing_ SDL, below.
 - **Packages:** <https://sdllang.org/packages/>
 
 New developers may find the notes in
-[CONTRIBUTING](https://github.com/JuliaLang/julia/blob/master/CONTRIBUTING.md)
+[CONTRIBUTING](https://github.com/sdllang/sdl/blob/dev/CONTRIBUTTING.md)
 helpful to start contributing to the Julia codebase.
