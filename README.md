@@ -32,7 +32,7 @@ and _installing_ SDL, below.
 
 New developers may find the notes in
 [CONTRIBUTING](https://github.com/sdllang/sdl/blob/dev/CONTRIBUTTING.md)
-helpful to start contributing to the SDL codebase.
+helpful to start contributing to the SDL codebase. ⭐
 
 ### Learning SDL
 
