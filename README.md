@@ -37,18 +37,3 @@ helpful to start contributing to the SDL codebase. ⭐
 ### Learning SDL
 
 - [**Learning resources**](https://sdllang.org/learning/)
-
-## Terminal, Editors and IDEs
-
-The SDL REPL is quite powerful. See the section in the manual on
-[the SDL REPL](https://docs.sdllang.org/en/v1/stdlib/REPL/)
-for more details.
-
-On Windows, we highly recommend running SDL in a modern terminal,
-such as [Windows Terminal from the Microsoft Store](https://aka.ms/terminal).
-
-Support for editing SDL is available for many
-[widely used editors](https://github.com/SDLEditorSupport)
-
-For users who prefer IDEs, we recommend using VS Code with the
-[sdl-vscode](https://www.sdl-vscode.org/) plugin.
